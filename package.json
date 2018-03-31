@@ -1,0 +1,9 @@
+{
+  "name": "react-preview-carousel",
+  "version": "0.1.0",
+  "description": "React carousel with preview gallery by click on slide",
+  "main": "index.js",
+  "repository": "https://github.com/Asmadeus/react-preview-carousel",
+  "author": "Asmadeus",
+  "license": "MIT"
+}
